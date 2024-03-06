@@ -1,4 +1,5 @@
 # Git--demo
-This is my first Git Demo. 
+
+This is my first Git Demo.
 <br>
-Author -Sameet Girigoudar
+Author -Sameet Manohar Girigoudar
